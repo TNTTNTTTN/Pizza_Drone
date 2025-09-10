@@ -39,7 +39,7 @@
 | OS | ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)|
 | 언어 | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)  |
 | ML/DL | ![YOLO](https://img.shields.io/badge/yolo-111f68?style=for-the-badge&logo=yolo&logoColor=white) ![OpenCV](https://img.shields.io/badge/Opencv-5C3EE8?style=for-the-badge&logo=Opencv&logoColor=white)  |
-| 로보틱스 <br> 어플리케이션 | ![ROS2](https://img.shields.io/badge/ros2-22314E.svg?style=for-the-badge&logo=ros&logoColor=white) |
+| 로보틱스 <br> 어플리케이션 | ![ROS2](https://img.shields.io/badge/ros1-22314E.svg?style=for-the-badge&logo=ros&logoColor=white) |
 | 프로젝트 관리도구| ![Notion](https://img.shields.io/badge/notion-000000.svg?style=for-the-badge&logo=notion&logoColor=white) |
 
 
